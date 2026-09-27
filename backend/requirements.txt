@@ -1,0 +1,22 @@
+# Web 框架
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+
+# 数据处理
+pydantic==2.5.0
+requests==2.31.0
+
+# AI/ML
+transformers>=4.35.0
+langchain>=0.0.350
+langchain-core>=0.1.25
+langchain-openai>=0.0.5
+torch>=2.0.0
+
+# 工具库
+python-dotenv==1.0.0
+Pillow==10.1.0
+
+# 文件处理
+aiofiles==23.2.1
