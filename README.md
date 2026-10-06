@@ -112,7 +112,7 @@ npm run dev
 
 ## 📚 相关课程
 
-- 📖 课程文档：[飞书知识库](#)（待补充）
+- 📖 课程文档：[飞书知识库](https://scnxinvxtnbo.feishu.cn/wiki/MhlawnWR4ilPJckem2WcMhSinab)
 - 🎥 视频教程：[课程链接](#)（待补充）
 
 ---
